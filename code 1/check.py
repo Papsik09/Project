@@ -4,4 +4,4 @@ def number(even: int):
     if even % 2 == 0:
         return even
     else:
-        print("Not even number")
+        print("Not even number!")
