@@ -1,6 +1,7 @@
-def even_number(int):
+def number(even: int):
+    
     """Check if numbers is even"""
-    if even_number % 2 == 0:
-        return even_number
+    if even % 2 == 0:
+        return even
     else:
         print("Not even number")
